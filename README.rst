@@ -2,7 +2,8 @@
 HTML Similarity
 ===============
 
-Tätä kirjastoa käytetään tunnistamaan elementtien samankaltaisuus toistensa kanssa 
+Tätä kirjastoa käytetään työkalussa, joka tunnistaa elementtien samankaltaisuuden toistensa kanssa.
+
 Koodi on suora kopio https://github.com/matiskay/html-similarity 
 
 --------
