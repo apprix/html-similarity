@@ -2,6 +2,12 @@
 HTML Similarity
 ===============
 
+Tätä kirjastoa käytetään tunnistamaan elementtien samankaltaisuus toistensa kanssa 
+Koodi on suora kopio https://github.com/matiskay/html-similarity 
+
+--------
+
+
 .. image:: https://travis-ci.org/matiskay/html-similarity.svg?branch=master
     :target: https://travis-ci.org/matiskay/html-similarity
 
